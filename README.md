@@ -27,7 +27,7 @@ Ce TP explore deux méthodes de clustering :
 
 ```
 tp4.ipynb
-├── Compte Rendu (Markdown)
+
 ├── Partie 1 : Chargement et exploration des données
 │   ├── Statistiques descriptives
 │   ├── Scatter matrix
